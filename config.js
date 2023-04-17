@@ -45,18 +45,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6285749721865'
+global.nomorown = '6285772762034'
+global.namebot = 'ChikaBotz'
+global.nameown = 'HumanModz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6285772762034'],
+  ['6285772762034'],
+  ['6285772762034'],
+  ['6285772762034', 'HumanModz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,17 +108,17 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 Human'//nama group kalian
+global.wm = 'By ChikaBotz' //Main Watermark
+global.wm2 = 'HumanModz'
 global.wm3 = 'NexBotz | By PutraModz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.titlebot = `ChikaBotz | ʙʏ ${global.nameown}`
+global.author = 'HumanModz' 
+global.packname = 'HumanModz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Agustus 08 2005'
 
 
 /*============== LOGO ==============*/
@@ -135,9 +135,9 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
+global.nameowner = 'HumanModz'
 global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
+global.asalowner = 'Jawa Timur, Sumenep'
 global.nomorowner = 'wa.me/6282214729677'
 global.pacarowner = 'Amelia Putri septiany'
 
